@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morgan Egea Sánchez - Hoja de Vida</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #e60000;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Morgan Egea Sánchez - Hoja de Vida</h1>
+    
+    <h2>Información personal:</h2>
+    <p>Fecha de nacimiento: [Fecha de nacimiento]</p>
+    <p>Dirección: [Dirección]</p>
+    <p>Teléfono: [Número de teléfono]</p>
+    <p>Correo electrónico: [Correo electrónico]</p>
+    
+    <h2>Educación:</h2>
+    <ul>
+        <li>Bachiller Técnico Industrial, [Nombre de la institución], 1982</li>
+        <li>Economista, Universidad Cooperativa de Colombia (UCC), 1994</li>
+        <li>Especialista en Gestión Pública, Escuela Superior de Administración Pública (ESAP), 2000</li>
+        <li>Magister en Gobierno Municipal, Universidad Externado, 2011</li>
+    </ul>
+    
+    <h2>Experiencia laboral:</h2>
+    <ul>
+        <li>Secretario General de Hacienda, [Nombre de la entidad], 1995-1996</li>
+        <li>Concejal del Municipio de Barrancabermeja, 1998-2000 y 2001-2003</li>
+        <li>Gerente de EDUBA (Empresa de Desarrollo Urbano de Barrancabermeja), 2004-2007</li>
+        <li>Contratos de prestación de servicios en la Alcaldía de Barrancabermeja, Senado de la República y Agencia Nacional de Minería (ANM)</li>
+        <li>Concejal de Barrancabermeja, 2017-2019 y 2021-2023</li>
+    </ul>
+    
+    <h2>Habilidades y logros destacados:</h2>
+    <ul>
+        <li>Amplio conocimiento en gestión pública y gobierno municipal.</li>
+        <li>Experiencia en el sector financiero y de hacienda.</li>
+        <li>Participación activa en el desarrollo urbano de Barrancabermeja a través de la gerencia de EDUBA.</li>
+        <li>Destacada labor como concejal, abogando por los intereses y necesidades de la comunidad.</li>
+        <li>Capacidad de trabajar en equipo y liderar iniciativas en beneficio de la ciudadanía.</li>
+    </ul>
+    
+    <h2>Referencias:</h2>
+    <p>Disponibles a solicitud.</p>
+    
+    <p><em>Nota: La hoja de vida proporcionada es ficticia y solo se utiliza con fines ilustrativos. Los datos personales y de contacto han sido omitidos para proteger la privacidad. Asegúrate de incluir información precisa y actualizada al redactar una hoja de vida real.</em></p>
+</body>
+</html>
